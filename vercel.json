@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "buildCommand": "cd catering_frontend && npm install && npm run build",
+  "outputDirectory": "catering_frontend/.next",
+  "installCommand": "cd catering_frontend && npm install",
+  "framework": "nextjs",
+  "rootDirectory": "catering_frontend"
+}
